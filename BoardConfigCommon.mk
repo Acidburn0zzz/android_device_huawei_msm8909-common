@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-PLATFORM_PATH := device/cyanogen/msm8916-common
+PLATFORM_PATH := device/huawei/msm8909-common
 
 # Include board config fragments
 include $(PLATFORM_PATH)/board/*.mk

@@ -39,7 +39,7 @@
 #include "log.h"
 #include "util.h"
 
-#include "init_msm8916.h"
+#include "init_msm8909.h"
 
 __attribute__ ((weak))
 void init_target_properties()
